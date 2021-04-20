@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+
+body {
+    font-family: 'Original Surfer',
+        cursive;
+}
+
+div {
+    display: inline-block;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+}
+
+img {
+    height: 70%;
+}
+
+#heading {
+    color: chartreuse;
+}
+
+.green-color {
+    background-color: rgb(117, 236, 117);
+
+}
